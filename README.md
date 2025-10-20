@@ -1,5 +1,5 @@
 FOX Engine FSOP Packer/Unpacker
-
+By Blue :)
 A command-line tool to pack and unpack .fsop files used in the FOX Engine.
 
 Usage
