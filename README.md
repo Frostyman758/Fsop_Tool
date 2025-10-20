@@ -23,7 +23,7 @@ python fsop_tool.py shader_unpacked
 Creates shader.fsop
 
 Adding a New Shader:
-
+Drag and drop the New shader into the unpack folder, or do it manually;
 Edit metadata.json and add an entry like:
 {name: “MyShader”, vertex_shader_file: “MyShader_vs.fxc”, pixel_shader_file: “MyShader_ps.fxc”}
 
